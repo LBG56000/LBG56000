@@ -1,4 +1,4 @@
-# GitHUb BRUNEAU-GACHE Léo
+# GitHUb Léo BRUNEAU-GACHE
 - 👋 Hi, I’m @LBG56000
 - 👀 I’m interested in the developement for the new sustainable technologies
 - To see my work go to the repositories
